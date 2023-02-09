@@ -14,8 +14,8 @@ Anything higher or lower is currently incompatible.
 2. Place `flops4.py` or `flops4.exe` in that directory.
 3. Run the script for the first time. This will generate flops4.ini.
 4. In the INI:
--- Set `launch_command` to point to your `TS4_x64.exe`, along with any command line options.
--- Change any other paths and settings as needed.
+   - Set `launch_command` to point to your `TS4_x64.exe`, along with any command line options.
+   - Change any other paths and settings as needed.
 
 ### Usage:
 `python.exe flops4.py [profile_name]`
