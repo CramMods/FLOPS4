@@ -3,6 +3,8 @@
 
 A helper to use multiple profiles for The Sims 4, and/or to allow it to use a profile outside of "Documents".
 
+Thanks to the amazing work over at <https://github.com/ModOrganizer2/usvfs> and <https://github.com/pwssnk/py-usvfs>, we have a way to redirect a program's filesystem access selectively.
+
 If building or running from source, you need to use Python 3.7.
 Anything higher or lower is currently incompatible.
 
